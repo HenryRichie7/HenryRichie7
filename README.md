@@ -1,5 +1,5 @@
 ### Hi there 👋
-Visit my Personal Github : https://github.com/henry-richard7/henry-richard7
+Visit my Personal Github : https://github.com/henry-richard7
 
 ### About Me 🙋🏻‍♂️
 ```python
